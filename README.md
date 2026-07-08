@@ -1,111 +1,206 @@
-<h1 align="center">
-Olá! 👋 Eu sou Iury Souza
-</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Desenvolvedor Front-End em constante evolução
-</h3>
+# 👋 Olá, eu sou Iury Souza
 
-<p align="center">
-Transformando ideias em interfaces modernas, rápidas e intuitivas.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;HTML+%7C+CSS+%7C+JavaScript;Sempre+aprendendo+algo+novo;Bem-vindo+ao+meu+GitHub!" />
+
+<br>
+
+<p>
+Transformando ideias em interfaces modernas, responsivas e intuitivas.
 </p>
+
+</div>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-🎯 Atualmente estudando:
+🏫 Cursando o 3° Semestre, em Análise e Desenvolvimento de Sistemas - Universidade Una
 
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
-- Responsividade
-- UI/UX
+💻 Desenvolvedor Front-End em formação.
 
-📚 Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Front-End.
+📚 Estudando HTML5, CSS3, JavaScript, Git e GitHub.
 
-Sempre buscando criar projetos profissionais, responsivos e com excelente experiência para o usuário.
+🎯 Buscando minha primeira oportunidade como Desenvolvedor Front-End.
+
+⚡ Apaixonado por tecnologia, design e desenvolvimento de interfaces.
 
 ---
 
 # 🛠 Tecnologias
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html" height="60"/>
-<img src="https://skillicons.dev/icons?i=css" height="60"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="60"/>
-<img src="https://skillicons.dev/icons?i=git" height="60"/>
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,vscode,figma" />
 
-</p>
+</div>
 
 ---
 
 # 📊 Estatísticas
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuryDv&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iuryDv&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryDv&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryDv&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 🔥 Sequência de contribuições
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=iuryDv&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=iuryDv&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
+
+---
+
+# 📈 Gráfico de atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iuryDv&theme=tokyo-night"/>
+
+</div>
 
 ---
 
 # 🏆 Conquistas
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iuryDv&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iuryDv&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
-</p>
-
----
-
-# 📈 Atividade
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iuryDv&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-# 🌎 Onde me encontrar
+# 📚 Roadmap
 
-📧 Email:
-SeuEmail@email.com
+```text
+✅ HTML5
 
-💼 LinkedIn
+✅ CSS3
 
-https://linkedin.com/in/SEU-LINK
+🟨 JavaScript
 
-🐱 GitHub
+🟨 Git
 
-https://github.com/iuryDv
+🟨 GitHub
+
+⬜ React
+
+⬜ TypeScript
+
+⬜ Node.js
+
+⬜ Next.js
+```
 
 ---
 
-# 💡 Frase
+# 💼 Projetos
 
-> "Grandes projetos começam com uma única linha de código."
+## 🍖 Assados Jack's
+
+Landing Page profissional para uma casa de carnes.
+
+Tecnologias:
+
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## 🍛 Site Profissional 
+
+Site de Apresentação de Restaurante
+
+---
+
+## 🚀 Em breve...
+
+Mais projetos serão adicionados conforme minha evolução.
+
+---
+
+# 📜 Certificados
+
+🎓 HTML
+
+🎓 CSS
+
+🎓 JavaScript
+
+🎓 Git
+
+🎓 GitHub
+
+---
+
+# 🎯 Objetivos
+
+- Conseguir minha primeira vaga como Desenvolvedor Front-End.
+- Aprender React.
+- Aprender TypeScript.
+- Criar aplicações completas.
+- Contribuir para projetos Open Source.
+- Me consagrar como Desenvolvedor FullStack.
+
+---
+
+# 🌐 Contato
+
+<div align="center">
+
+<a href="https://github.com/iuryDv">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Linguagens
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+
+</div>
+
+---
+
+# 👀 Visitantes
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=iuryDv&color=0A66C2&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💬 Frase
+
+> *"A melhor forma de prever o futuro é construí-lo, uma linha de código por vez."*
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+Se gostou dos meus projetos, deixe uma ⭐ nos repositórios.
+
+</div>
