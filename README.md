@@ -36,19 +36,6 @@ Transformando ideias em interfaces modernas, responsivas e intuitivas.
 
 </div>
 
----
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iuryDv&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryDv&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 Sequência de contribuições
 
@@ -65,16 +52,6 @@ Transformando ideias em interfaces modernas, responsivas e intuitivas.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iuryDv&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iuryDv&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
